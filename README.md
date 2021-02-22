@@ -1,10 +1,10 @@
 ## Hostel Management WebSystem using PHP
 
-###Frnt end:
+### Frnt end:
 #### HTML, CSS, Boot-strap, js
 
-###Back end:
+### Back end:
 #### PHP
 
-###DataBase
+### DataBase
 #### Phpmyadmin sql
